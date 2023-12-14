@@ -1,4 +1,4 @@
-![image](https://github.com/Karthi051/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/148327224/260179b5-7bf4-470d-ba40-dbde301ea071)# Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
+# Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
 
 ### DATE: 
 
@@ -33,7 +33,7 @@
 
 ## Output:
 ![image](https://github.com/Karthi051/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/148327224/180e5c0b-1632-4218-93d1-c7567db08432)
-
+![image](https://github.com/Karthi051/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/148327224/260179b5-7bf4-470d-ba40-dbde301ea071)
 
 
 ### Name:karthi keyan k
